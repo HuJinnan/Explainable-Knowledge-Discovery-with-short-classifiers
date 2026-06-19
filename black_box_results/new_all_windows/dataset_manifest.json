@@ -1,0 +1,156 @@
+[
+  {
+    "experiment_id": "three_class_w1",
+    "section": "three_class",
+    "window_len": 1,
+    "label_boundaries": "[(0, 0, 120), (1, 121, 240), (2, 241, inf)]",
+    "output_dir": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w1",
+    "train_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w1\\split_data\\mining_train_subseq_flattened.csv",
+    "test_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w1\\split_data\\mining_test_subseq_flattened.csv",
+    "split_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w1\\split_data\\split_info.json",
+    "generation_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w1\\split_data\\generation_info.json"
+  },
+  {
+    "experiment_id": "three_class_w2",
+    "section": "three_class",
+    "window_len": 2,
+    "label_boundaries": "[(0, 0, 120), (1, 121, 240), (2, 241, inf)]",
+    "output_dir": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w2",
+    "train_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w2\\split_data\\mining_train_subseq_flattened.csv",
+    "test_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w2\\split_data\\mining_test_subseq_flattened.csv",
+    "split_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w2\\split_data\\split_info.json",
+    "generation_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w2\\split_data\\generation_info.json"
+  },
+  {
+    "experiment_id": "three_class_w3",
+    "section": "three_class",
+    "window_len": 3,
+    "label_boundaries": "[(0, 0, 120), (1, 121, 240), (2, 241, inf)]",
+    "output_dir": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w3",
+    "train_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w3\\split_data\\mining_train_subseq_flattened.csv",
+    "test_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w3\\split_data\\mining_test_subseq_flattened.csv",
+    "split_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w3\\split_data\\split_info.json",
+    "generation_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w3\\split_data\\generation_info.json"
+  },
+  {
+    "experiment_id": "three_class_w4",
+    "section": "three_class",
+    "window_len": 4,
+    "label_boundaries": "[(0, 0, 120), (1, 121, 240), (2, 241, inf)]",
+    "output_dir": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w4",
+    "train_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w4\\split_data\\mining_train_subseq_flattened.csv",
+    "test_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w4\\split_data\\mining_test_subseq_flattened.csv",
+    "split_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w4\\split_data\\split_info.json",
+    "generation_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w4\\split_data\\generation_info.json"
+  },
+  {
+    "experiment_id": "three_class_w5",
+    "section": "three_class",
+    "window_len": 5,
+    "label_boundaries": "[(0, 0, 180), (1, 181, 360), (2, 361, inf)]",
+    "output_dir": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w5",
+    "train_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w5\\split_data\\mining_train_subseq_flattened.csv",
+    "test_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w5\\split_data\\mining_test_subseq_flattened.csv",
+    "split_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w5\\split_data\\split_info.json",
+    "generation_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w5\\split_data\\generation_info.json"
+  },
+  {
+    "experiment_id": "three_class_w6",
+    "section": "three_class",
+    "window_len": 6,
+    "label_boundaries": "[(0, 0, 180), (1, 181, 360), (2, 361, inf)]",
+    "output_dir": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w6",
+    "train_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w6\\split_data\\mining_train_subseq_flattened.csv",
+    "test_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w6\\split_data\\mining_test_subseq_flattened.csv",
+    "split_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w6\\split_data\\split_info.json",
+    "generation_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w6\\split_data\\generation_info.json"
+  },
+  {
+    "experiment_id": "three_class_w4_alt1",
+    "section": "three_class",
+    "window_len": 4,
+    "label_boundaries": "[(0, 0, 120), (1, 121, 720), (2, 721, inf)]",
+    "output_dir": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w4_alt1",
+    "train_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w4_alt1\\split_data\\mining_train_subseq_flattened.csv",
+    "test_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w4_alt1\\split_data\\mining_test_subseq_flattened.csv",
+    "split_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w4_alt1\\split_data\\split_info.json",
+    "generation_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w4_alt1\\split_data\\generation_info.json"
+  },
+  {
+    "experiment_id": "three_class_w4_alt2",
+    "section": "three_class",
+    "window_len": 4,
+    "label_boundaries": "[(0, 0, 120), (1, 121, 1200), (2, 1201, inf)]",
+    "output_dir": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w4_alt2",
+    "train_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w4_alt2\\split_data\\mining_train_subseq_flattened.csv",
+    "test_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w4_alt2\\split_data\\mining_test_subseq_flattened.csv",
+    "split_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w4_alt2\\split_data\\split_info.json",
+    "generation_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\three_class_w4_alt2\\split_data\\generation_info.json"
+  },
+  {
+    "experiment_id": "two_class_w1",
+    "section": "two_class",
+    "window_len": 1,
+    "label_boundaries": "[(0, 0, 120), (1, 121, inf)]",
+    "output_dir": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w1",
+    "train_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w1\\split_data\\mining_train_subseq_flattened.csv",
+    "test_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w1\\split_data\\mining_test_subseq_flattened.csv",
+    "split_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w1\\split_data\\split_info.json",
+    "generation_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w1\\split_data\\generation_info.json"
+  },
+  {
+    "experiment_id": "two_class_w2",
+    "section": "two_class",
+    "window_len": 2,
+    "label_boundaries": "[(0, 0, 120), (1, 121, inf)]",
+    "output_dir": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w2",
+    "train_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w2\\split_data\\mining_train_subseq_flattened.csv",
+    "test_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w2\\split_data\\mining_test_subseq_flattened.csv",
+    "split_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w2\\split_data\\split_info.json",
+    "generation_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w2\\split_data\\generation_info.json"
+  },
+  {
+    "experiment_id": "two_class_w3",
+    "section": "two_class",
+    "window_len": 3,
+    "label_boundaries": "[(0, 0, 120), (1, 121, inf)]",
+    "output_dir": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w3",
+    "train_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w3\\split_data\\mining_train_subseq_flattened.csv",
+    "test_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w3\\split_data\\mining_test_subseq_flattened.csv",
+    "split_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w3\\split_data\\split_info.json",
+    "generation_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w3\\split_data\\generation_info.json"
+  },
+  {
+    "experiment_id": "two_class_w4",
+    "section": "two_class",
+    "window_len": 4,
+    "label_boundaries": "[(0, 0, 120), (1, 121, inf)]",
+    "output_dir": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w4",
+    "train_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w4\\split_data\\mining_train_subseq_flattened.csv",
+    "test_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w4\\split_data\\mining_test_subseq_flattened.csv",
+    "split_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w4\\split_data\\split_info.json",
+    "generation_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w4\\split_data\\generation_info.json"
+  },
+  {
+    "experiment_id": "two_class_w5",
+    "section": "two_class",
+    "window_len": 5,
+    "label_boundaries": "[(0, 0, 180), (1, 181, inf)]",
+    "output_dir": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w5",
+    "train_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w5\\split_data\\mining_train_subseq_flattened.csv",
+    "test_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w5\\split_data\\mining_test_subseq_flattened.csv",
+    "split_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w5\\split_data\\split_info.json",
+    "generation_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w5\\split_data\\generation_info.json"
+  },
+  {
+    "experiment_id": "two_class_w6",
+    "section": "two_class",
+    "window_len": 6,
+    "label_boundaries": "[(0, 0, 180), (1, 181, inf)]",
+    "output_dir": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w6",
+    "train_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w6\\split_data\\mining_train_subseq_flattened.csv",
+    "test_csv": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w6\\split_data\\mining_test_subseq_flattened.csv",
+    "split_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w6\\split_data\\split_info.json",
+    "generation_info_path": "D:\\PythonProject\\paper\\black_box_results\\new_all_windows\\datasets\\two_class_w6\\split_data\\generation_info.json"
+  }
+]
