@@ -1,0 +1,6 @@
+{"formula_id": "len2_0001", "length": 2, "formula": "(x1 OR x2)", "truth_table": "0111", "canonical_signature": "0111", "negation_count": 0, "binary_operator_count": 1, "total_operator_count": 1}
+{"formula_id": "len2_0002", "length": 2, "formula": "(x1 AND x2)", "truth_table": "0001", "canonical_signature": "0001", "negation_count": 0, "binary_operator_count": 1, "total_operator_count": 1}
+{"formula_id": "len2_0003", "length": 2, "formula": "(NOT x1 OR x2)", "truth_table": "1101", "canonical_signature": "1011", "negation_count": 1, "binary_operator_count": 1, "total_operator_count": 2}
+{"formula_id": "len2_0004", "length": 2, "formula": "(NOT x1 AND x2)", "truth_table": "0100", "canonical_signature": "0010", "negation_count": 1, "binary_operator_count": 1, "total_operator_count": 2}
+{"formula_id": "len2_0005", "length": 2, "formula": "(NOT x1 OR NOT x2)", "truth_table": "1110", "canonical_signature": "1110", "negation_count": 2, "binary_operator_count": 1, "total_operator_count": 3}
+{"formula_id": "len2_0006", "length": 2, "formula": "(NOT x1 AND NOT x2)", "truth_table": "1000", "canonical_signature": "1000", "negation_count": 2, "binary_operator_count": 1, "total_operator_count": 3}

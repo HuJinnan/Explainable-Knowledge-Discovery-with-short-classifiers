@@ -1,0 +1,47 @@
+{
+  "2": {
+    "count": 6,
+    "paper_style_constraints": true,
+    "allow_not": true,
+    "binary_operators": [
+      "AND",
+      "OR"
+    ],
+    "use_threshold_sum": false,
+    "max_total_operators": 4,
+    "deduplication": [
+      "same truth table",
+      "same function up to variable renaming"
+    ]
+  },
+  "3": {
+    "count": 16,
+    "paper_style_constraints": true,
+    "allow_not": true,
+    "binary_operators": [
+      "AND",
+      "OR"
+    ],
+    "use_threshold_sum": false,
+    "max_total_operators": 4,
+    "deduplication": [
+      "same truth table",
+      "same function up to variable renaming"
+    ]
+  },
+  "4": {
+    "count": 28,
+    "paper_style_constraints": true,
+    "allow_not": true,
+    "binary_operators": [
+      "AND",
+      "OR"
+    ],
+    "use_threshold_sum": false,
+    "max_total_operators": 4,
+    "deduplication": [
+      "same truth table",
+      "same function up to variable renaming"
+    ]
+  }
+}
